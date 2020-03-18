@@ -1,0 +1,45 @@
+Hidden station experiment with RTS/CTS disabled:for num_nodes = 1
+Total channel throughput = 0
+------------------------------------------------
+Hidden station experiment with RTS/CTS enabled: for num_nodes = 1
+Total channel throughput = 0
+Hidden station experiment with RTS/CTS disabled:for num_nodes = 2
+Total channel throughput = 4.04096
+------------------------------------------------
+Hidden station experiment with RTS/CTS enabled: for num_nodes = 2
+Total channel throughput = 4.04096
+Hidden station experiment with RTS/CTS disabled:for num_nodes = 3
+Total channel throughput = 6.05766
+------------------------------------------------
+Hidden station experiment with RTS/CTS enabled: for num_nodes = 3
+Total channel throughput = 6.05766
+Hidden station experiment with RTS/CTS disabled:for num_nodes = 4
+Total channel throughput = 7.98524
+------------------------------------------------
+Hidden station experiment with RTS/CTS enabled: for num_nodes = 4
+Total channel throughput = 8.07181
+Hidden station experiment with RTS/CTS disabled:for num_nodes = 5
+Total channel throughput = 8.17625
+------------------------------------------------
+Hidden station experiment with RTS/CTS enabled: for num_nodes = 5
+Total channel throughput = 10.0809
+Hidden station experiment with RTS/CTS disabled:for num_nodes = 6
+Total channel throughput = 7.30801
+------------------------------------------------
+Hidden station experiment with RTS/CTS enabled: for num_nodes = 6
+Total channel throughput = 12.0874
+Hidden station experiment with RTS/CTS disabled:for num_nodes = 7
+Total channel throughput = 5.57404
+------------------------------------------------
+Hidden station experiment with RTS/CTS enabled: for num_nodes = 7
+Total channel throughput = 14.0888
+Hidden station experiment with RTS/CTS disabled:for num_nodes = 8
+Total channel throughput = 4.31621
+------------------------------------------------
+Hidden station experiment with RTS/CTS enabled: for num_nodes = 8
+Total channel throughput = 16.0979
+Hidden station experiment with RTS/CTS disabled:for num_nodes = 9
+Total channel throughput = 3.54219
+------------------------------------------------
+Hidden station experiment with RTS/CTS enabled: for num_nodes = 9
+Total channel throughput = 18.0407

@@ -1,0 +1,21 @@
+FTP-CBR Experiment with RTS/CTS disabled:
+Total channel throughput = 16.805Mbps
+FTP throughput = 4.56806Mbps
+CBR throughput = 12.237Mbps
+Average File Transfer Delay = 4.95249 seconds
+
+
+FTP-CBR Experiment with RTS/CTS disabled:
+Total channel throughput = 16.7948Mbps
+FTP throughput = 3.69756Mbps
+CBR throughput = 13.0973Mbps
+Average File Transfer Delay = 4.92085 seconds
+
+
+FTP-CBR Experiment with RTS/CTS disabled:
+Total channel throughput = 17.3542Mbps
+FTP throughput = 2.95734Mbps
+CBR throughput = 14.3968Mbps
+Average File Transfer Delay = 4.62194 seconds
+
+
